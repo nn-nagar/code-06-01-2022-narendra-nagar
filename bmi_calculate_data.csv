@@ -1,0 +1,7 @@
+Gender,HeightCm,WeightKg,BMI,Category,Health Risk
+Male,1.71,96,32.83061454806607,Moderately obese,Medium risk
+Male,1.61,85,32.79194475521777,Moderately obese,Medium risk
+Male,1.8,77,23.76543209876543,Normal weight,Low risk
+Female,1.66,62,22.49963710262738,Normal weight,Low risk
+Female,1.5,70,31.11111111111111,Moderately obese,Medium risk
+Female,1.67,82,29.402273297715947,Overweight,Enhanced risk
